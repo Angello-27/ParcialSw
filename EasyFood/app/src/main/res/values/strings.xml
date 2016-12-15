@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">Restaurante</string>
+    <string name="lista_de_pedidos">LISTA DE PEDIDOS</string>
+    <string name="imagen_pedidos">imagen pedidos</string>
+    <string name="platos">Platos</string>
+    <string name="lanches">Lanches</string>
+    <string name="bebidas">Bebidas</string>
+    <string name="pedidos">Pedidos</string>
+    <string name="cupons">Cupons</string>
 
     <string-array name="semana">
         <item>Domingo</item>
